@@ -1,0 +1,90 @@
+longitude,latitude,name,code_iso
+44.97,33.17,Avestan,av1
+66.87,36.77,Avestan 2,av2
+73.26,34.5,Baffa Pashto,pb1
+71.68,34.82,Bajaur Pashto,pb2
+49.77,32.02,Bakhtiari,bql
+62,28,Balochi Eastern,bgp
+62.17,37.83,Balochi Western,bgn
+70.6,32.98,Bannu Pashto,ps1
+71.74,35.12,Bar Pashto,pb3
+73.11,34.69,Batagram Pashto,pb4
+72,36.5,Central Gojal Wakhi,wb1
+66.45,30.93,Chaman Pashto,pt1
+72,36.5,Chapursan Wakhi,wb2
+71.73,34.15,Charsadda Pashto,pb5
+71.88,33.82,Cherat Pashto,pb6
+48.91,32.37,Dezfuli,def
+44,43,Digor Ossetian,os1
+71.88,35.21,Dir Pashto,pb7
+66,35,Eastern Farsi,prs
+49.46,34.04,Gazi,gzi
+50,37.33,Gilaki,glk
+45.5,35.75,Gurani,hac
+71.04,33.53,Hangu Pashto,pb8
+44,43,Iron Ossetian,os2
+72,36.5,Ishkoman Wakhi,wb3
+71.82,33.92,Jallozai Pashto,pb9
+71.13,34.03,Jamrud Afridi Pashto,p10
+48.28,42.07,Judeo Tat,jdt
+65.76,31.6,Kandahar Pashto,pt2
+71.26,33.16,Karak Pashto,ps2
+47.43,38.57,Karingani,kgn
+39.3,39.1,Kirmanjki,kiu
+44.9,37.79,Koresh E Rostam,okh
+56.42,26.16,Kumzari,zum
+44,36,Kurdish Central,ckb
+42,38,Kurdish Kurmanji,kmr
+70.91,32.6,Lakki Marwat Pashto,ps3
+54.63,27.64,Larestani,lrl
+52.95,35.45,Lasgerdi,lsa
+48.5,33.5,Luri,luz
+72.52,35.16,Madyan Pashto,p11
+71.37,34.01,Mallagori Pashto,p12
+72.04,34.2,Mardan Pashto,p13
+52,36.5,Mazanderani,mzn
+51.17,33.45,Meymai,kfm
+72.36,34.78,Mingora Pashto,p14
+70.07,33,Miran Shah Pashto,ps4
+71.39,34.48,Mohmand Pashto,p15
+71.11,38.39,Munjani,mnj
+51.9,33.5,Natanzi,ntz
+53.52,34.22,Nayini,nyq
+70.38,33.98,Ningrahar Pashto,p16
+67,33,Northern Pashto,p17
+73,34.5,Oghi Pashto,p18
+54,32,Old Persian,peo
+69.75,32.5,Ormuri,oru
+69.61,35.05,Parachi,prc
+70.1,33.9,Parachinar Pashto,p19
+68.83,30.42,Pashin Kakari Pashto,pt3
+54,32,Persian,pes
+71.55,34,Peshawar Pashto,p20
+67,30.6,Pishin Pashto,pt4
+67.02,30.21,Quetta Pashto,pt5
+53.33,35.7,Sangisari,sgr
+53.35,35.58,Semnani,smg
+53.32,35.77,Shahmirzadi,srz
+72,36.5,Shimsal Wakhi,wb4
+69.5,34.56,Shinwari Pashto,p21
+71.6,37.93,Shughni,sgh
+52.92,30.08,Sivandi,siy
+53.2,35.45,Sorkhei,sqo
+59.74,25.11,Southern Balochi,bcc
+46.6,32.9,Southern Kurdish,sdh
+52.27,29.75,Southwestern Fars,fay
+72.4,34.17,Swabi Pashto,p22
+70,38.4,Tajik,tgk
+48.67,38.75,Talysh,tly
+70.54,33.37,Thal Pashto,p23
+71.61,34.73,Tirah Afridi Pashto,p24
+48.73,36.6,Upper Taromi,tov
+49.92,34.67,Vafsi,vaf
+69.57,32.3,Wana Pashto,ps5
+67.94,30.1,Waneci,wne
+69,39,Yaghnobi,yai
+72,36.5,Yasin Wakhi,wb5
+71.5,38.5,Yazgulyam,yah
+71.7,36.32,Yidgha,ydg
+71.17,34,Zakha Khel Afridi Pashto,p25
+41,39,Zazaki,diq

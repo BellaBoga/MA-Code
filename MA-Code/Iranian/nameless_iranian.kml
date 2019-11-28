@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>nameless</name>
+    <Placemark>
+      <name>Avestan</name>
+      <Point>
+        <coordinates>44.97,33.17,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avestan 2</name>
+      <Point>
+        <coordinates>66.87,36.77,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baffa Pashto</name>
+      <Point>
+        <coordinates>73.26,34.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bajaur Pashto</name>
+      <Point>
+        <coordinates>71.68,34.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bakhtiari</name>
+      <Point>
+        <coordinates>49.77,32.02,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balochi Eastern</name>
+      <Point>
+        <coordinates>62.0,28.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balochi Western</name>
+      <Point>
+        <coordinates>62.17,37.83,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bannu Pashto</name>
+      <Point>
+        <coordinates>70.6,32.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bar Pashto</name>
+      <Point>
+        <coordinates>71.74,35.12,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Batagram Pashto</name>
+      <Point>
+        <coordinates>73.11,34.69,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Gojal Wakhi</name>
+      <Point>
+        <coordinates>72.0,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chaman Pashto</name>
+      <Point>
+        <coordinates>66.45,30.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chapursan Wakhi</name>
+      <Point>
+        <coordinates>72.0,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charsadda Pashto</name>
+      <Point>
+        <coordinates>71.73,34.15,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cherat Pashto</name>
+      <Point>
+        <coordinates>71.88,33.82,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dezfuli</name>
+      <Point>
+        <coordinates>48.91,32.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Digor Ossetian</name>
+      <Point>
+        <coordinates>44.0,43.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dir Pashto</name>
+      <Point>
+        <coordinates>71.88,35.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastern Farsi</name>
+      <Point>
+        <coordinates>66.0,35.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gazi</name>
+      <Point>
+        <coordinates>49.46,34.04,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gilaki</name>
+      <Point>
+        <coordinates>50.0,37.33,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gurani</name>
+      <Point>
+        <coordinates>45.5,35.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hangu Pashto</name>
+      <Point>
+        <coordinates>71.04,33.53,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iron Ossetian</name>
+      <Point>
+        <coordinates>44.0,43.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ishkoman Wakhi</name>
+      <Point>
+        <coordinates>72.0,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jallozai Pashto</name>
+      <Point>
+        <coordinates>71.82,33.92,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jamrud Afridi Pashto</name>
+      <Point>
+        <coordinates>71.13,34.03,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Judeo Tat</name>
+      <Point>
+        <coordinates>48.28,42.07,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kandahar Pashto</name>
+      <Point>
+        <coordinates>65.76,31.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karak Pashto</name>
+      <Point>
+        <coordinates>71.26,33.16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karingani</name>
+      <Point>
+        <coordinates>47.43,38.57,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kirmanjki</name>
+      <Point>
+        <coordinates>39.3,39.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Koresh E Rostam</name>
+      <Point>
+        <coordinates>44.9,37.79,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kumzari</name>
+      <Point>
+        <coordinates>56.42,26.16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kurdish Central</name>
+      <Point>
+        <coordinates>44.0,36.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kurdish Kurmanji</name>
+      <Point>
+        <coordinates>42.0,38.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lakki Marwat Pashto</name>
+      <Point>
+        <coordinates>70.91,32.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larestani</name>
+      <Point>
+        <coordinates>54.63,27.64,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lasgerdi</name>
+      <Point>
+        <coordinates>52.95,35.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Luri</name>
+      <Point>
+        <coordinates>48.5,33.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madyan Pashto</name>
+      <Point>
+        <coordinates>72.52,35.16,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mallagori Pashto</name>
+      <Point>
+        <coordinates>71.37,34.01,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mardan Pashto</name>
+      <Point>
+        <coordinates>72.04,34.2,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mazanderani</name>
+      <Point>
+        <coordinates>52.0,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Meymai</name>
+      <Point>
+        <coordinates>51.17,33.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mingora Pashto</name>
+      <Point>
+        <coordinates>72.36,34.78,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miran Shah Pashto</name>
+      <Point>
+        <coordinates>70.07,33.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mohmand Pashto</name>
+      <Point>
+        <coordinates>71.39,34.48,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Munjani</name>
+      <Point>
+        <coordinates>71.11,38.39,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Natanzi</name>
+      <Point>
+        <coordinates>51.9,33.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nayini</name>
+      <Point>
+        <coordinates>53.52,34.22,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ningrahar Pashto</name>
+      <Point>
+        <coordinates>70.38,33.98,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Northern Pashto</name>
+      <Point>
+        <coordinates>67.0,33.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oghi Pashto</name>
+      <Point>
+        <coordinates>73.0,34.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Persian</name>
+      <Point>
+        <coordinates>54.0,32.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ormuri</name>
+      <Point>
+        <coordinates>69.75,32.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parachi</name>
+      <Point>
+        <coordinates>69.61,35.05,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parachinar Pashto</name>
+      <Point>
+        <coordinates>70.1,33.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pashin Kakari Pashto</name>
+      <Point>
+        <coordinates>68.83,30.42,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Persian</name>
+      <Point>
+        <coordinates>54.0,32.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peshawar Pashto</name>
+      <Point>
+        <coordinates>71.55,34.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pishin Pashto</name>
+      <Point>
+        <coordinates>67.0,30.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quetta Pashto</name>
+      <Point>
+        <coordinates>67.02,30.21,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sangisari</name>
+      <Point>
+        <coordinates>53.33,35.7,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Semnani</name>
+      <Point>
+        <coordinates>53.35,35.58,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shahmirzadi</name>
+      <Point>
+        <coordinates>53.32,35.77,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shimsal Wakhi</name>
+      <Point>
+        <coordinates>72.0,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shinwari Pashto</name>
+      <Point>
+        <coordinates>69.5,34.56,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shughni</name>
+      <Point>
+        <coordinates>71.6,37.93,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sivandi</name>
+      <Point>
+        <coordinates>52.92,30.08,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sorkhei</name>
+      <Point>
+        <coordinates>53.2,35.45,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southern Balochi</name>
+      <Point>
+        <coordinates>59.74,25.11,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southern Kurdish</name>
+      <Point>
+        <coordinates>46.6,32.9,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southwestern Fars</name>
+      <Point>
+        <coordinates>52.27,29.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swabi Pashto</name>
+      <Point>
+        <coordinates>72.4,34.17,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tajik</name>
+      <Point>
+        <coordinates>70.0,38.4,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Talysh</name>
+      <Point>
+        <coordinates>48.67,38.75,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thal Pashto</name>
+      <Point>
+        <coordinates>70.54,33.37,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tirah Afridi Pashto</name>
+      <Point>
+        <coordinates>71.61,34.73,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Upper Taromi</name>
+      <Point>
+        <coordinates>48.73,36.6,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vafsi</name>
+      <Point>
+        <coordinates>49.92,34.67,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wana Pashto</name>
+      <Point>
+        <coordinates>69.57,32.3,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waneci</name>
+      <Point>
+        <coordinates>67.94,30.1,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yaghnobi</name>
+      <Point>
+        <coordinates>69.0,39.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yasin Wakhi</name>
+      <Point>
+        <coordinates>72.0,36.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yazgulyam</name>
+      <Point>
+        <coordinates>71.5,38.5,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yidgha</name>
+      <Point>
+        <coordinates>71.7,36.32,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zakha Khel Afridi Pashto</name>
+      <Point>
+        <coordinates>71.17,34.0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zazaki</name>
+      <Point>
+        <coordinates>41.0,39.0,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

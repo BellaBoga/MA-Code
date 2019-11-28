@@ -1,0 +1,55 @@
+latitude,longitude,language,dialect,iso
+43.25,-6,Asturian,Portugese,ast
+41.75,2,Central Catalan,Spanish,ca1
+41.38,2.18,North-Western Catalan,Spanish,ca2
+39.57,2.65,Minorcan Catalan,Spanish,ca3
+39.98,-0.03,Castello de la Plana Catalan,Spanish,ca4
+39.46,-0.37,Valencia Catalan,Spanish,ca5
+39,-0.46,Manises Catalan,Spanish,ca6
+42.71,18.02,Dalmatian,Dalmatian,dlm
+44.23,11.72,Ravennate Romagnol,Italian,eg1
+44.83,11.61,Ferrarese Emiliano,Italian,eg2
+44.78,10.88,Carpigiano Emiliano,Italian,eg3
+44.4,10.41,Reggiano Emiliano,Italian,eg4
+48,2,Standard French,French,fra
+46.17,12.9,Friulian,Italian,fur
+43,-8,Galician,Portugese,glg
+43,12,Standard Italian,Italian,ita
+42.98,12.76,Foligno Italian,Italian,itf
+42.75,11.11,Grosseto Italian,Italian,itg
+44.35,9.22,Rapallo Ligurian,Italian,li1
+44.44,9.05,Genoese Ligurian,Italian,li2
+44.4,8,Stella Ligurian,Italian,li3
+45.66,10.68,Gardanese Ladin,Italian,ll1
+46.41,11.63,Fassano Ladin,Italian,ll2
+45.69,9.66,Bergamot Lombard,Italian,lm1
+46.04,9.23,Plesio Lombard,Italian,lm2
+40.83,14.24,Neapolitan,Italian,nea
+50.65,3.29,Picard,French,pcd
+45.73,7.6,Lanzo Torinese Piemontese,Italian,pm1
+44.37,8.46,Barbania Piemontese,Italian,pm2
+44.88,7.7,Carmagnola Piemontese,Italian,pm3
+45.06,7.68,Turinese Piemontese,Italian,pm4
+45.3,7.64,Vercellese Piemontese,Italian,pm5
+39,-8,Standard Portugese,Portugese,por
+42.6,0.65,Provencal Occitan,Occitan,pr1
+42.9,0.84,Savoyard Franco-Provencal,Occitan,pr2
+46.55,9.93,Rumantsch Grischun,Romansh,ro1
+46.67,8.83,Sursilvan Romansh,Romansh,ro2
+46.25,9.93,Surmiran Romansh,Romansh,ro3
+46.55,9.93,Vallader Romansh,Romansh,ro4
+46,25,Romanian,Romanian,ron
+45.18,13.91,Istro Romanian,Romanian,ruo
+40,20.75,Aromanian,Romanian,rup
+41.12,22.38,Megleno Romanian,Romanian,ruq
+37.88,13.6,Palermitan Sicilian,Italian,sc1
+38.19,15.55,Messinese Sicilian,Italian,sc2
+37.5,15.08,Catanian Sicilian,Italian,sc3
+37.05,15.22,South-Eastern Sicilian,Italian,sc4
+40,-4,Castilian Spanish,Spanish,spa
+40.5,9.1,Logudorese,Italian,src
+39.06,9.04,Campidanese,Italian,sro
+45.43,12.33,Venice Venetian,Italian,ve1
+46.16,11.82,Primiero Venetian,Italian,ve2
+46.13,12.21,Bellunese Venetian,Italian,ve3
+50.22,5.15,Walloon,French,win

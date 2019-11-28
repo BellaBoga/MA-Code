@@ -1,0 +1,13 @@
+Normal data
+
+> plot(mixmodel,whichplots=2)
+> lines(density(rom_dens), lty=3, lwd=2)
+> summary(mixmodel)
+summary of normalmixEM object:
+         comp 1   comp 2   comp 3   comp 4    comp 5
+lambda 0.230355 0.165688 0.485383 0.095625 0.0229497
+mu     1.814936 2.918081 3.610832 3.455698 6.3583091
+sigma  0.500893 0.227704 1.333032 0.188582 2.2534456
+loglik at estimate:  -5406.861 
+
+

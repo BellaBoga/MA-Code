@@ -1,0 +1,12 @@
+Useful code and Notes
+
+grep -H "[A-Za-z0-9]" *.csv | cut -d, -f1-5 | sed "s|:|,|" > all.csv --> grepped all files in one directory, merged them into one and kept the filenames as indicatior
+
+awk '{sub(/[^,]*/,"");sub(/,/,"")} 1'  --> delete first column in csv
+
+wc -l --> numbers of rows of csv
+
+tr ' ' ',' <lenght_corrected_lv_romance_off_diagonal.csv > length.csv --> replace space with comma
+
+Von NielsF - Eigenes Werk, based upon Image:Map of Italy (w.o. Labels).jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=510185
+
