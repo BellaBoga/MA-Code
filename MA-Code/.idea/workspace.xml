@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec848298-3795-4ad3-9794-6b821cf08122" name="Default" comment="testing" />
+    <list default="true" id="ec848298-3795-4ad3-9794-6b821cf08122" name="Default" comment="testing">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhD-Code" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -170,7 +172,7 @@
       <workItem from="1574936276595" duration="286000" />
       <workItem from="1574936801988" duration="221000" />
       <workItem from="1574937150463" duration="147000" />
-      <workItem from="1574937485470" duration="285000" />
+      <workItem from="1574937485470" duration="478000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1574936487068</created>
@@ -193,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574937721298</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing">
+      <created>1574937934811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574937934811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
